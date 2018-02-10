@@ -215,6 +215,7 @@ TBA
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% endif %}
 
+<p><em>Temptative schedule, to be adjusted.</em></p>
 
 {% if page.carpentry == "swc" %}
   {% include sc/schedule.html %}
