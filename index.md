@@ -190,6 +190,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="schedule">Registration</h2>
 TBA
 
+<hr/>
 
 {% comment %}
   SCHEDULE
