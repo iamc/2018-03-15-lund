@@ -190,6 +190,27 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="schedule">Registration</h2>
 TBA
 
+{% comment %}
+  SPONSORS
+{% endcomment %}
+<h2 id="schedule">Sponsors</h2>
+This workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
+
+<div class="sponsor-logos">
+  <a href="https://www.snic.se" title="Swedish National Infrastructure for Computing">
+    <img style="margin-right:50px" alt="SNIC" src="img/snic.png" width="170"/>
+  </a>
+  <a href="http://www.lunarc.lu.se" title="Center for scientific and technical computing at Lund University">
+    <img style="margin-right:50px" alt="lunarc" src="img/lunarc_logo.png" width="150"/>
+  </a>
+  <a href="http://www.cfm.ehu.es" title="Materials Physics Center">
+    <img style="margin-right:50px" alt="CFM" src="img/LogoCFM.png" width="130"/>
+  </a>
+  <a href="https://www.ift.uam-csic.es" title="Institute for Theoretical Physics">
+    <img style="margin-right:50px" alt="IFT" src="img/LogoIFT.png" width="150"/>
+  </a>
+</div>
+
 <hr/>
 
 {% comment %}
