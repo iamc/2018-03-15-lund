@@ -240,6 +240,7 @@ Registration is open as February the 13th 2018.
 </div>
 </div>
 
+<hr/>
 
 {% comment %}
   SPONSORS
