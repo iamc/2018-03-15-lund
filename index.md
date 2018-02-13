@@ -236,7 +236,7 @@ This workshop is possible thanks to the collaboration of the following entities,
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% endif %}
 
-<p><em>Temptative schedule, to be adjusted.</em></p>
+<p><em>Preliminary schedule, to be adjusted.</em></p>
 
 {% if page.carpentry == "swc" %}
   {% include sc/schedule.html %}
