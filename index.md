@@ -193,9 +193,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="schedule">Registration</h2>
 
 
-Registration is open as February the 13th 2018. 
-  
-<p> Assistance is limited to 27 people.</p>
+Registration is open as February the 13th 2018.  Assistance is limited to 27 people.
 
 <div style="display: block;" class="classictemplate template">
 <style type="text/css">
