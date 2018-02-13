@@ -178,7 +178,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% endif %}
   for more information.
 {% endcomment %}
-  See http://www.lunarc.lu.se/support/support-form for more information.
+  See <a href="http://www.lunarc.lu.se/support/support-form>http://www.lunarc.lu.se/support/support-form</a> for more information.
 </p>
 
 <hr/>
