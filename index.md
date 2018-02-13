@@ -160,6 +160,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 <p id="contact">
   <strong>Contact</strong>:
+{% comment %}
   Please email
   {% if page.email %}
     {% for email in page.email %}
@@ -176,6 +177,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     to-be-announced
   {% endif %}
   for more information.
+{% endcomment %}
+  See http://www.lunarc.lu.se/support/support-form for more information.
 </p>
 
 <hr/>
