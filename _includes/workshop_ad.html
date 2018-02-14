@@ -8,6 +8,7 @@
       <h2>{{page.venue}}<br>Software Carpentry Workshop</h2>
       <div class="row">
         <div class="col-md-6">
+	  <p>{% if page.address %}{{page.address}}{% endif %}</p>
           <p>{{page.humandate}}</p>
           <p>{% if page.humantime %}{{page.humantime}}{% endif %}</p>
         </div>
