@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Swedish National Infrastructure for Computing - Software Carpentry Workshop"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: joachim.hein@math.lu.se
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
