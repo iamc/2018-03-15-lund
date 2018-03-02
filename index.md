@@ -46,6 +46,19 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
+<h4 id="contents">Contents</h4>
+<p><small>
+ <ul>
+  <li><a href="#general">General Information</a></li>
+  <li><a href="#details">Workshop Details</a></li>
+  <li><a href="#registration">Registration</a></li>
+  <li><a href="#sponsors">Sponsors</a></li>
+  <li><a href="#schedule">Schedule</a></li>
+  <li><a href="#syllabus">Syllabus</a></li>
+  <li><a href="#setup">Software Setup Instructions</a></li>
+</ul>
+</small></p>
+
 
 <h2 id="general">General Information</h2>
 
@@ -62,6 +75,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% elsif page.carpentry == "lc" %}
   {% include lc/intro.html %}
 {% endif %}
+
+
+<h2 id="details">Workshop Details</h2>
 
 {% comment %}
   AUDIENCE
@@ -192,7 +208,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   to match your plans.  You may also want to change 'Day 1' and 'Day
   2' to be actual dates or days of the week.
 {% endcomment %}
-<h2 id="schedule">Registration</h2>
+<h2 id="registration">Registration</h2>
 
 
 Registration is open as February the 13th 2018.  Assistance is limited to 27 people.
@@ -245,7 +261,7 @@ Registration is open as February the 13th 2018.  Assistance is limited to 27 peo
 {% comment %}
   SPONSORS
 {% endcomment %}
-<h2 id="schedule">Sponsors</h2>
+<h2 id="sponsors">Sponsors</h2>
 This workshop is possible thanks to the collaboration of the following entities, which allow us to do this under our working schedule and contribute to the associated costs.
 
 <div class="sponsor-logos">
