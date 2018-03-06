@@ -351,6 +351,8 @@ This workshop is possible thanks to the collaboration of the following entities,
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
 
+See the lessons links below for the reference material we will be using along the workshop.
+
 {% if page.carpentry == "swc" %}
   {% include sc/syllabus.html %}
 {% elsif page.carpentry == "dc" %}
