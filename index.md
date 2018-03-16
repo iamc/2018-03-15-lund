@@ -290,8 +290,10 @@ This workshop is possible thanks to the collaboration of the following entities,
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
+
 {% comment %} DO NOT EDIT SURVEY LINKS {% endcomment %}
 <p><em>Surveys</em></p>
+<p><a href="https://goo.gl/forms/bC3Qul5tzvYInHWb2"><em>Workshop final survey</em></a></p>
 {% if page.carpentry == "swc" %} 
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
